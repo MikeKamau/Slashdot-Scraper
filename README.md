@@ -10,9 +10,11 @@ You'll also need to create a database named "slashdot" and within in create a ta
 
 #MySQL Syntax:
 #Create slashdot database
+
 create database slashdot;
 
 #Create stories table
+
 CREATE TABLE `stories` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `title` varchar(255) NOT NULL,
@@ -27,5 +29,6 @@ RUNNING THE CRAWLER
 Once you've cloned the repository onto your machine, change directory into the Slashdot-Scraper directory and run the "scrapy crawl easy" command.
 
 #Commands
+
 cd Slashdot-Scraper
 scrapy crawl easy
