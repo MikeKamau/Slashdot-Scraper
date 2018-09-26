@@ -24,6 +24,8 @@ Whnen everything is set up be sure to change MySQL values for "host", "user" and
 
 RUNNING THE CRAWLER
 ====================
-Once you cloned the repository onto your machine, run the following command to run the crawler:
+Once you've cloned the repository onto your machine, change directory into the Slashdot-Scraper directory and run the "scrapy crawl easy" command.
 
+#Commands
+cd Slashdot-Scraper
 scrapy crawl easy
