@@ -1,5 +1,5 @@
-SLASHDOT ARTICLE TITLE AND VIEWS SCRAPER
-========================================
+SLASHDOT ARTICLE TITLE AND COMMENT SCRAPER
+==========================================
 A simple Scrapy framework crawler that crawls through slashtdot.org and retrives all story titles together with their associated comment numbers, and stores them in a MySQL db.
 
 PREREQUISITES
