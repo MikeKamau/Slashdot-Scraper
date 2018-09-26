@@ -31,4 +31,5 @@ Once you've cloned the repository onto your machine, change directory into the S
 #Commands
 
 cd Slashdot-Scraper
+
 scrapy crawl easy
